@@ -1,6 +1,6 @@
 <div>
 	<div align="center">
-	<img src="![logo biru](https://github.com/Bloomy-Bangkit/.github/assets/97221880/2f979062-309f-48ab-8d55-2e0d5af4cdf1)" width="500" />
+	<img src="https://github.com/Bloomy-Bangkit/.github/assets/97221880/8f89bc5b-d515-4f79-b794-89481ca5596c" alt="logo biru" style="width:50%;">
 	</div>
 	<h3 align="center">Bloomy</h3>
 	<p align="left">
