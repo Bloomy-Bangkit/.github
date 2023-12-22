@@ -8,7 +8,7 @@ Welcome to the Bloomy App, a comprehensive solution tailored for fish distributo
 		
 For fish distributors, Bloomy provides a robust grading system, enabling easy assessment of product quality. This is complemented by educational resources to empower users with the knowledge needed to make informed purchasing decisions. Visual guides further aid in the identification of high-quality marine products, ensuring a streamlined procurement process.
 
-Sailors benefit from real-time weather and oceanographic data, facilitating optimized route planning and enhanced safety during their journeys. Tailored recommendations based on vessel specifications and route preferences contribute to a smoother sailing experience, empowering sailors to navigate with confidence.
+Fishermen benefit from real-time weather and oceanographic data, facilitating optimized sail decision to ensure fishermen safety during their journeys.
 
 In the realm of fish price prediction, Bloomy keeps users abreast of market trends, allowing fish distributors to fine-tune their pricing strategies. The app's ability to analyze historical pricing data empowers users to make data-driven decisions, ensuring they stay ahead in a dynamic market environment.
 
