@@ -23,12 +23,13 @@ Hi everyone! We are from CH2-PS086. We consist of 7 people and these are my team
 
 Bangkit ID|Name|Learning Path|University|LinkedIn
 |--|--|--|--|--
-|A177DSX2264|Abdul Malik Shodiqin|Mobile Development|Universitas Hasanuddin|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-malik-shodiqin/)|
-|A166DKX3905|Rahadian Fajar Nugroho|Mobile Development|Universitas Diponegoro|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahadian-fajar-ba7b1b211/)|
-|M074DKX3936|Farhan Rahman|Machine Learning|Politeknik Negeri Ujung Pandang|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-rahman0601/)|
-|M361DSY0001|Annisaseptriyana|Machine Learning|Universitas Terbuka|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisaseptriyana/)|
-|C281DKX4151|Kholil Haq Alim Hakim|Cloud Computing|Universitas Negeri Makassar|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholil-haq-alim-hakim/)|
-|C208DSX1374|Rifaz Muhammad Sukma|Cloud Computing|Universitas Jenderal Achmad Yani|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifaz-muhammad-2351461a4/)|
+|M128BSY0948|Heical Chandra Syahputra|Machine Learning|Poliketnik Negeri Jakarta|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heical-chandra/)|
+|M128BSY1852|Andra Rizki Pratama|Machine Learning|Poliketnik Negeri Jakarta|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andra-rizki-pratama/)|
+|M015BSY0866|Novebri Tito Ramadhani|Machine Learning|Universita Negeri Yogyakarta|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novebri-tito-ramadhani/)|
+|C256BSY3481|Aditya Bayu Aji|Cloud Computing|Universitas Muhammadiyah Cirebon|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniadittt/)|
+|C313BSX3054|Asrini Salsabila Putri|Cloud Computing|Universitas Siliwangi|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrinisalsabilaputri/)|
+|A258BSY2276|Ahmad Tiova Ian Avola|Mobile Development|Universitas Muhammadiyah Malang|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiova/)|
+|A128BSY2319|Sandhi Karunia Sugihartana|Mobile Development|Poliketnik Negeri Jakarta|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhi-karunia-sugihartana/)|
 
 
 ## Theme ⚕️
